@@ -1,3 +1,4 @@
+// To-Do: Implementar títulos diferenciales para SEO y para la web
 import 'css/prism.css'
 import 'katex/dist/katex.css'
 
